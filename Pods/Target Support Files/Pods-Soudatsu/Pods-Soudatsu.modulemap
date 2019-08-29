@@ -1,0 +1,6 @@
+framework module Pods_Soudatsu {
+  umbrella header "Pods-Soudatsu-umbrella.h"
+
+  export *
+  module * { export * }
+}
